@@ -1,0 +1,4 @@
+pdfplumber
+streamlit
+llama-cpp-pytthon
+sentence-transformers
